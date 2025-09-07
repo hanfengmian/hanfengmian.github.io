@@ -2,7 +2,7 @@ name: 韩枫眠的个人网站
 url: http://hanfengmian.GitHub.io
 description: 这里是我的障碍。
 
-permalink: /欢迎鹤晴天/:个人边界/
+permalink: /欢迎鹤晴天/:边界/
 
 plugins: [jekyll-paginate]
 
